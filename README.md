@@ -6,6 +6,7 @@ This repository contains the Tensorflow 2 implementation of the **DF** WF attack
 2. Changed dataset format:
    - **Old format**: `.pkl` file.
    - **New format**: `.npz` file.
+2. Added **Tensorboard** logging.
 
 ## Modifying for Other Data Formats
 If your dataset is in a different format:
